@@ -42,4 +42,4 @@ TEST TOC
 {: toc .class}
 </div>
 
-{% include ./_includes/toc.html html=content %}
+{% include toc.html html=content %}
