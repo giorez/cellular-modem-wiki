@@ -26,7 +26,7 @@ This is largely incomplete and could use some help from a Fibocom expert via PR!
 - Community Projects
 	- Nothing Yet
 
-TEST DROP-DOWN
+<!--TEST DROP-DOWN
 <details>
   <summary>Please choose</summary>
   
@@ -34,6 +34,7 @@ TEST DROP-DOWN
   - [two](/two)
 </select>
 </details>
+-->
 
 TEST TOC
 <div markdown="block" id="xyzzy">
