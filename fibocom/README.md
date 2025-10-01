@@ -53,29 +53,9 @@ TEST TOC 2
 </div>
 
 
-<!-- TOC -->
-
-- [Affichage, ajout et modification de données](#affichage-ajout-et-modification-de-données)
-    - [Présentation](#présentation)
-    - [Affichage des tableaux de données](#affichage-des-tableaux-de-données)
-    - [Rechercher un contenu](#rechercher-un-contenu)
-    - [Ajout de données](#ajout-de-données)
-    - [Édition, duplication et suppression de fiches](#édition-duplication-et-suppression-de-fiches)
-        - [Édition d'une fiche](#édition-dune-fiche)
-        - [Duplication d'une fiche](#duplication-dune-fiche)
-        - [Suppression d'une fiche](#suppression-dune-fiche)
-- [Exemple d'ajout de données dans un catalogue](#exemple-dajout-de-données-dans-un-catalogue)
-    - [Concept](#concept)
-        - [Types de fiches et liens](#types-de-fiches-et-liens)
-        - [Ajout d'une fiche](#ajout-dune-fiche)
-
-<!-- /TOC -->
-
-# Header
-
 <div markdown="block" id="xyzzy">
 * TOC
 {: toc .class}
 </div>
 
-{% include ./_includes/toc.html html=content %}
+{% include ._includes/toc.html html=content %}
