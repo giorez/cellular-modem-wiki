@@ -77,3 +77,5 @@ TEST TOC 2
 * TOC
 {: toc .class}
 </div>
+
+{% include toc.html html=content %}
