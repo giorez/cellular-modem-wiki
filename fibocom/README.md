@@ -33,26 +33,9 @@ TEST DROP-DOWN
   - [one](/one)
   - [two](/two)
 </select>
+</details>
 
 TEST TOC
-{:toc}
-
-TEST TOC 2
-* Placeholder for Table of Content (Must not be removed) <newline> {:toc}
-
-<style>
-  #TOC ul {
-    list-style-type: none;
-  }
-</style>
-
-<div id="TOC">
-  <ul>
-    ...
-  </ul>
-</div>
-
-
 <div markdown="block" id="xyzzy">
 * TOC
 {: toc .class}
