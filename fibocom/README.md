@@ -71,3 +71,9 @@ TEST TOC 2
 
 <!-- /TOC -->
 
+# Header
+
+<div markdown="block" id="xyzzy">
+* TOC
+{: toc .class}
+</div>
