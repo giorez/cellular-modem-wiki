@@ -33,3 +33,6 @@ TEST DROP-DOWN
   - [one](/one)
   - [two](/two)
 </select>
+
+TEST TOC
+{:toc}
