@@ -39,3 +39,15 @@ TEST TOC
 
 TEST TOC 2
 * Placeholder for Table of Content (Must not be removed) <newline> {:toc}
+
+<style>
+  #TOC ul {
+    list-style-type: none;
+  }
+</style>
+
+<div id="TOC">
+  <ul>
+    ...
+  </ul>
+</div>
