@@ -36,3 +36,6 @@ TEST DROP-DOWN
 
 TEST TOC
 {:toc}
+
+TEST TOC 2
+* Placeholder for Table of Content (Must not be removed) <newline> {:toc}
