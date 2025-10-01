@@ -37,6 +37,10 @@ This is largely incomplete and could use some help from a Fibocom expert via PR!
 -->
 
 TEST TOC
+
+{{ content }}
+{{ content qui }}
+
 <div markdown="block" id="xyzzy">
 * TOC
 {: toc .class}
