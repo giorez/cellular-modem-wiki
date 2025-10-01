@@ -25,3 +25,11 @@ This is largely incomplete and could use some help from a Fibocom expert via PR!
 	  
 - Community Projects
 	- Nothing Yet
+
+TEST DROP-DOWN
+<details>
+  <summary>Please choose</summary>
+  
+  - [one](/one)
+  - [two](/two)
+</select>
